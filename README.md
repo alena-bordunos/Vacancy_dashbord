@@ -14,5 +14,5 @@
 
 Проект выполнен в программе Yandex DataLens.
 
-**Ссылка на дашборд:** 
+**Ссылка на дашборд:** https://datalens.yandex.ru/sn99nvih4e06h-vakansii
 
